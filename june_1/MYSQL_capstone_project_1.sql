@@ -166,7 +166,7 @@ select * from orders where order_date> 2026-01-01;
 select  * from payments where payment_mode ='upi';
 select * from deliveries where delivery_status='pending';
 select count(*) as total  from customers;
-select count(*) as toal_order from orders;
+select count(*) as total_order from orders;
 select count(*) as total_product from products;
 select sum(amount) as total_revenue from payments where
 payment_status='success';
