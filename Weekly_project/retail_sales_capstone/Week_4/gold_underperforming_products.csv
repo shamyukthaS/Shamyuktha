@@ -1,0 +1,4 @@
+product_id,product_name,total_quantity,total_revenue,total_profit
+P109,Monitor,3,45000.0,9000.0
+P101,Laptop,3,195000.0,30000.0
+P105,Tablet,3,60000.0,12000.0
