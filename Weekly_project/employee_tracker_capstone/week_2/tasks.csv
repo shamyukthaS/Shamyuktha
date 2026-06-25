@@ -1,0 +1,20 @@
+task_id,employee_id,task_name,tasks_completed,task_status
+1,101,"dashboard development",8,completed
+2,102,"recruitment drive",5,completed
+3,103,"budget analysis",10,completed
+4,104,"social media campaign",3,pending
+5,105,"sales reporting",7,completed
+6,106,"software testing",8,completed
+7,107,"audit review",9,completed
+8,108,"candidate screening",5,completed
+9,109,"sales target review",10,completed
+10,110,"marketing presentation",4,pending
+11,101,"attendance report",7,completed
+12,102,"employee onboarding",4,completed
+13,103,"financial planning",9,completed
+14,104,"content creation",2,completed
+15,105,"inventory tracking",8,completed
+16,106,"bug fixing",9,completed
+17,107,"expense verification",8,completed
+18,108,"training coordination",5,completed
+19,109,"client meeting",10,completed

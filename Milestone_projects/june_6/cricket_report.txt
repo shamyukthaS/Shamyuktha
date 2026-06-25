@@ -1,0 +1,26 @@
+===== Report =====
+
+Total Players        : 12
+Total Runs           : 6606
+Average Runs         : 550.50
+Highest Scorer       : Virat Kohli (741)
+Lowest Scorer        : MS Dhoni (280)
+
+Team Wise Runs:
+  CSK             : 890
+  GT              : 620
+  KKR             : 930
+  LSG             : 590
+  MI              : 990
+  RCB             : 1411
+  RR              : 1175
+
+Top 5 Players:
+  Virat Kohli          : 741
+  Faf du Plessis       : 670
+  Yashasvi Jaiswal     : 625
+  Shubman Gill         : 620
+  Ruturaj Gaikwad      : 610
+
+Most Fours : Virat Kohli (62)
+Most Sixes : Virat Kohli (38)
