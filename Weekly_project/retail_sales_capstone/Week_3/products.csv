@@ -1,0 +1,11 @@
+product_id,product_name,category,price,cost
+P101,Laptop,Electronics,65000.00,55000.00
+P102,Smartphone,Electronics,30000.00,25000.00
+P103,Headphones,Electronics,2500.00,1800.00
+P104,Smartwatch,Electronics,5000.00,3500.00
+P105,Tablet,Electronics,20000.00,16000.00
+P106,Printer,Accessories,12000.00,9000.00
+P107,Keyboard,Accessories,1500.00,1000.00
+P108,Mouse,Accessories,800.00,500.00
+P109,Monitor,Electronics,15000.00,12000.00
+P110,Webcam,Accessories,2500.00,1800.00
