@@ -102,4 +102,4 @@ Generated business reports:
 
 ## Status
 
-✅ Week 4 Completed Successfully
+Week 4 Completed Successfully
